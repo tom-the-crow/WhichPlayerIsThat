@@ -42,4 +42,4 @@ async def playerstats(ctx, *, player_name):
         await ctx.send('Failed to search for the player.')
 
 # Run the bot
-bot.run('MTIwMzExNjYzOTQzNzA2NjI0MA.GNwInS.lSHX_-3Ddt9wwk9VRma8ZqDl9mu7rizwB6-qoY')
+bot.run('aeioujohnmadden')
